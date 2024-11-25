@@ -230,7 +230,7 @@ export default function Component() {
                     <DialogTitle>Add New Lead</DialogTitle>
                     <DialogDescription>Enter the details of the new lead.</DialogDescription>
                   </DialogHeader>
-                  <div className="grid gap-4 py-4 bg-gray-200">
+                  <div className="grid gap-4 py-4">
                     <div className="grid grid-cols-4 items-center gap-4">
                       <Label htmlFor="name" className="text-right">
                         Name
